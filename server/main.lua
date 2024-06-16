@@ -74,7 +74,7 @@ function connection.startTreasureHunt(index)
     end
 end
 
-RegisterCommand("iniciartesouro", function(source, args)
+RegisterCommand("starttreasurehunt", function(source, args)
     local source = source
     local Passport = vRP.Passport(source)
     if Passport then
