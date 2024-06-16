@@ -35,10 +35,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Enjoy the thrill of the hunt and may the best treasure seeker win! 🏆
 
-## 📚 Documentation
-
-For detailed documentation and advanced configuration options, please refer to the [Wiki](https://github.com/yourusername/FiveM-Treasure-Hunt-Event-Script/wiki).
-
 ---
 
 Developed with ❤️ by Noezinhos
